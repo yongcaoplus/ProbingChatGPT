@@ -2,7 +2,8 @@
 These are all the evaluation results of our paper: [Assessing Cross-Cultural Alignment between ChatGPT and Human Societies: An Empirical Study.](https://arxiv.org/pdf/2303.17466.pdf)
 
 ## Citation
-```@inproceedings{cao-etal-2023-assessing,
+```
+    @inproceedings{cao-etal-2023-assessing,
     title = "Assessing Cross-Cultural Alignment between {C}hat{GPT} and Human Societies: An Empirical Study",
     author = "Cao, Yong  and
       Zhou, Li  and
